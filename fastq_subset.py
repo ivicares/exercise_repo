@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#  ivana code
 # do the raw alignment, so no primer clipping, recalibration and other funny business
 import os
 import subprocess
